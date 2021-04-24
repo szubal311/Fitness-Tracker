@@ -7,8 +7,10 @@ The goal is to create an app that helps users track their workouts. The app need
 ## Intallation 
 Run npm install for the package.json and npm run seed for the seeder file for MongoDb.
 
-<img src="public/images/FT-screenshot.jpg" alt=fitness-tracker>
+## Screenshots
+<img src="/public/images/FT-screenshot.jpg" alt=fitness-tracker>
 
-<img src="public/images/FT--dashboard-screenshot.jpg" alt=dashboard>
+<img src="/public/images/FT--dashboard-screenshot.jpg" alt=dashboard>
+
 
 
