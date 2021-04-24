@@ -10,7 +10,7 @@ Run npm install for the package.json and npm run seed for the seeder file for Mo
 ## Screenshots
 <img src="/public/images/FT-screenshot.jpg" alt=fitness-tracker-main>
 
-<img src="/public/images/FT--dashboard-screenshot.jpg" alt=fitness-tracker-dashboard>
+<img src="/public/images/FT-dashboard-screenshot.jpg" alt=fitness-tracker-dashboard>
 
 
 
